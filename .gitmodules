@@ -1,0 +1,39 @@
+[submodule "aula01_bootcamp"]
+    path = aula01_bootcamp
+    url = https://github.com/gustavolsilva/aula01_bootcamp.git
+[submodule "aula02_bootcamp"] 
+    path = aula02_bootcamp
+    url = https://github.com/gustavolsilva/aula02_bootcamp.git
+[submodule "aula03_bootcamp"] 
+    path = aula03_bootcamp
+    url = https://github.com/gustavolsilva/aula03_bootcamp.git
+[submodule "aula04_bootcamp"] 
+    path = aula04_bootcamp
+    url = https://github.com/gustavolsilva/aula04_bootcamp.git
+[submodule "aula05_bootcamp"] 
+    path = aula05_bootcamp
+    url = https://github.com/gustavolsilva/aula05_bootcamp.git
+[submodule "aula06_bootcamp"] 
+    path = aula06_bootcamp
+    url = https://github.com/gustavolsilva/aula06_bootcamp.git
+[submodule "aula07_bootcamp"] 
+    path = aula07_bootcamp
+    url = https://github.com/gustavolsilva/aula07_bootcamp.git
+[submodule "aula08_bootcamp"] 
+    path = aula08_bootcamp
+    url = https://github.com/gustavolsilva/aula08_bootcamp.git
+[submodule "aula09_bootcamp"] 
+    path = aula09_bootcamp
+    url = https://github.com/gustavolsilva/aula09_bootcamp.git
+[submodule "aula10_bootcamp"] 
+    path = aula10_bootcamp
+    url = https://github.com/gustavolsilva/aula10_bootcamp.git
+[submodule "aula11_bootcamp"] 
+    path = aula11_bootcamp
+    url = https://github.com/gustavolsilva/aula11_bootcamp.git
+[submodule "aula12_bootcamp"] 
+    path = aula12_bootcamp
+    url = https://github.com/gustavolsilva/aula12_bootcamp.git
+[submodule "aula13_14_bootcamp"] 
+    path = aula13_14_bootcamp
+    url = https://github.com/gustavolsilva/aula13_14_bootcamp.git
