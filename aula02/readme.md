@@ -204,3 +204,10 @@ Escreva um programa que solicite ao usuário para digitar um número. Utilize `t
 
 **Exercício 25: Conversão de Tipo com Validação**
 Crie um script que solicite ao usuário uma lista de números separados por virgula. O programa deve converter a string de entrada em uma lista de números inteiros. Utilize `try-except` para tratar a conversão de cada número e validar que cada elemento da lista convertida é um inteiro. Se a conversão falhar ou um elemento não for um inteiro, imprima uma mensagem de erro. Se a conversão falhar ou um elemento não for inteiro, imprima uma mensagem de erro. Se a conversão for bem-sucedida para todos os elementos, imprima a lista de inteiros.
+
+## Desafio - Refatorar o projeto da aula anterior evitando bugs!
+
+Para resolver os bugs identificados — tratamento de entradas inválidas que não podem ser convertidas para um número de ponto flutuante e prevenção de valores negativos para salário e bônus, você pode modificar o código diretamente. Isso envolve adicionar verificações adicionais após a tentativa de conversão para garantir que os valores sejam positivos.
+
+![alt text](img\image.png)
+
