@@ -16,3 +16,15 @@ if isinstance(numero, int):
     print(f"A variável é um inteiro!")
 else:
     print(f"A variável não é um inteiro!")
+
+# %%
+
+idade = 16
+IDADE_MINIMA = 18
+
+if idade < IDADE_MINIMA:
+    print("Não pode dirigir ainda!")
+elif idade == IDADE_MINIMA:
+    print("Pode tirar a carteira de motorista!")
+else:
+    print("Pode dirigir!")
